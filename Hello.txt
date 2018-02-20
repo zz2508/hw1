@@ -9,3 +9,4 @@ fi
 
 $ ./nicehello.sh "Morgan Freeman"
 Well, hello Morgan Freeman! Nice to see you today :)
+See whether it works
